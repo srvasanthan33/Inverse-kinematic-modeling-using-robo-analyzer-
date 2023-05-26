@@ -36,6 +36,16 @@ Finally, inverse kinematics algorithms calculate the exact position of each of t
 ![image](https://user-images.githubusercontent.com/36288975/170623020-f27efc12-bb58-4f62-840d-af544ac6689e.png)
 
 ### PROCEDURE:
+1. Open the RoboAnalyzer App:
+![image](https://github.com/srvasanthan33/Inverse-kinematic-modeling-using-robo-analyzer-/assets/102546622/e5bb8915-894c-4b5f-bd1e-430a51a49b57)
+2. Change the DOF to threee:
+![image](https://github.com/srvasanthan33/Inverse-kinematic-modeling-using-robo-analyzer-/assets/102546622/87f0a2b9-ac10-4d80-bdda-4782a5d36eed)
+3. Open Ikin:
+![image](https://github.com/srvasanthan33/Inverse-kinematic-modeling-using-robo-analyzer-/assets/102546622/c384773b-da2c-4d27-9414-e6684d305bce)
+4. Set Parameters:
+![image](https://github.com/srvasanthan33/Inverse-kinematic-modeling-using-robo-analyzer-/assets/102546622/8679da68-62b9-44d7-a9df-7d8e32626023)
+5.Click Fkin and play:
+![image](https://github.com/srvasanthan33/Inverse-kinematic-modeling-using-robo-analyzer-/assets/102546622/9dda2f0b-6582-41dd-961c-00cf0eef07f4)
 
 
 
@@ -46,7 +56,8 @@ Finally, inverse kinematics algorithms calculate the exact position of each of t
 
 ### SIMULATION 
  
- 
+ ![image](https://github.com/srvasanthan33/Inverse-kinematic-modeling-using-robo-analyzer-/assets/102546622/0ab66b0c-5105-4904-995b-41145411d70f)
+
  
  
  
@@ -55,7 +66,23 @@ Finally, inverse kinematics algorithms calculate the exact position of each of t
  ### PLOT 
  
  
- 
+ Link 1:
+ ![image](https://github.com/srvasanthan33/Inverse-kinematic-modeling-using-robo-analyzer-/assets/102546622/d3474ea7-b3c8-46ff-a4b7-1324bd2c59e6)
+ Link 2:
+ ![image](https://github.com/srvasanthan33/Inverse-kinematic-modeling-using-robo-analyzer-/assets/102546622/d5fa73ab-c9bb-48b9-9a7c-ba7824cbae3b)
+Link 3:
+![image](https://github.com/srvasanthan33/Inverse-kinematic-modeling-using-robo-analyzer-/assets/102546622/38a0bbca-25f6-4a3e-92c4-af8ece297f42)
+
+Joints :
+Joint 1:
+![image](https://github.com/srvasanthan33/Inverse-kinematic-modeling-using-robo-analyzer-/assets/102546622/71aadf80-92e7-4c77-b4be-e0c9859ac69a)
+Joint 2:
+![image](https://github.com/srvasanthan33/Inverse-kinematic-modeling-using-robo-analyzer-/assets/102546622/db075b5b-5488-49e1-95b5-0dd8c2375958)
+
+Joint 3:
+![image](https://github.com/srvasanthan33/Inverse-kinematic-modeling-using-robo-analyzer-/assets/102546622/41023660-4cab-49a8-adf7-d2ed6f6c93ab)
+
+
  
  
  
