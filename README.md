@@ -82,31 +82,5 @@ Joint 2:
 Joint 3:
 ![image](https://github.com/srvasanthan33/Inverse-kinematic-modeling-using-robo-analyzer-/assets/102546622/41023660-4cab-49a8-adf7-d2ed6f6c93ab)
 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### RESULTS :  
+The inverse kinematics using DH parameters for a 3 dof planer and 3 dof articulated robot using roboanalyzer and polt the graph of joint angle for a given  input end effector position has been analyzed
